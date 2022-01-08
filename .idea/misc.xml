@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/school work/year 3/moblie app dev/lab gaming - leah king/app/src/main/res/drawable/style_circular_button_blue.xml" value="0.2703125" />
+        <entry key="..\:/school work/year 3/moblie app dev/lab gaming - leah king/app/src/main/res/layout/activity_main.xml" value="0.20625" />
+        <entry key="..\:/school work/year 3/moblie app dev/lab gaming - leah king/app/src/main/res/layout/game_over.xml" value="0.25416666666666665" />
+        <entry key="..\:/school work/year 3/moblie app dev/lab gaming - leah king/app/src/main/res/layout/hi_score.xml" value="0.25416666666666665" />
+        <entry key="..\:/school work/year 3/moblie app dev/lab gaming - leah king/app/src/main/res/layout/play_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/school work/year 3/moblie app dev/lab gaming - leah king/app/src/main/res/layout/sequence_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/school work/year 3/moblie app dev/lab gaming - leah king/app/src/main/res/layout/style_circular_button_blue.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
